@@ -1,5 +1,5 @@
 const fallingSpeed = 50;
-const imagePath = '../images/snow.svg';
+const imagePath = 'images/snow.svg';
 const snowflakesPerDpi = 10;
 
 const html = document.querySelector("html");
